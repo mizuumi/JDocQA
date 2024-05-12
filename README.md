@@ -1,10 +1,12 @@
 # JDocQA
 
-Dataset for the LREC-COLING2024 paper JDocQA: Japanese Document Question Answering Dataset for Generative Language Models.
+Document QA dataset for the LREC-COLING2024 paper "JDocQA: Japanese Document Question Answering Dataset for Generative Language Models".
 
 # Dataset
 
 Annotations can be downloaded from [Here](dataset/).
+
+We will provide download link of PDFs in several weeks.
 
 # Paper
 
