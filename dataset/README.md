@@ -21,6 +21,6 @@ Annotations:
 ```
 
 
-# Raw documents
+# Annotated documents
 
 Please [download from here](https://vlm-lab-fileshare.s3.ap-northeast-1.amazonaws.com/pdf_files.zip).
