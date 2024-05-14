@@ -8,7 +8,7 @@ Annotations can be downloaded from [Here](dataset/).
 
 We will provide download link of PDFs in several weeks.
 
-![img](./misc/lrec_coling.git)
+![ test img](/misc/lrec_coling.git)
 
 # Paper
 
