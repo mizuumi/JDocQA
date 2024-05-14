@@ -1,4 +1,4 @@
-nnotation files
+# Annotation files
 
 dataset/annotation_files/jdocqa_train_all.json
 dataset/annotation_files/jdocqa_validation_all.json
@@ -21,4 +21,6 @@ Annotations:
 ```
 
 
+# Annotated documents
 
+Please [download from here](https://vlm-lab-fileshare.s3.ap-northeast-1.amazonaws.com/pdf_files.zip).
