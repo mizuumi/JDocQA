@@ -12,6 +12,10 @@ Annotations can be downloaded from [Here](dataset/).
 
 Please visit [Paper](https://arxiv.org/abs/2403.19454).
 
+# Dataset License
+
+JDocQA dataset annotations are distributed under CC BY-SA 4.0.
+
 # Cite
 
 ```
