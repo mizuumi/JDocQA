@@ -21,6 +21,7 @@ Please visit [Paper](https://arxiv.org/abs/2403.19454).
       Shuhei, Kurita  and
       Miyanishi, Taiki and
       Watanabe, Taro",
+    booktitle = "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
     month = may,
     year = "2024",
     address = "Trino, Italy",
