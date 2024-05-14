@@ -15,7 +15,7 @@ Please visit [Paper](https://arxiv.org/abs/2403.19454).
 # Cite
 
 ```
-@inproceedings{asakura-etal-2022-building,
+@inproceedings{onami_jdocqa_2024,
     title = "JDocQA: Japanese Document Question Answering Dataset for Generative Language Models",
     author = "Onami, Eri  and
       Shuhei, Kurita  and
