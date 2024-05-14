@@ -8,6 +8,8 @@ Annotations can be downloaded from [Here](dataset/).
 
 We will provide download link of PDFs in several weeks.
 
+![img](./misc/lrec_coling.git)
+
 # Paper
 
 Please visit [Paper](https://arxiv.org/abs/2403.19454).
