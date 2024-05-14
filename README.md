@@ -18,7 +18,7 @@ Please visit [Paper](https://arxiv.org/abs/2403.19454).
 @inproceedings{JDocQA_2024,
     title = "JDocQA: Japanese Document Question Answering Dataset for Generative Language Models",
     author = "Onami, Eri  and
-      Shuhei, Kurita  and
+      Kurita, Shuhei  and
       Miyanishi, Taiki and
       Watanabe, Taro",
     booktitle = "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
