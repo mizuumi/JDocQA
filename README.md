@@ -6,8 +6,6 @@ Document QA dataset for the LREC-COLING2024 paper "JDocQA: Japanese Document Que
 
 Annotations can be downloaded from [Here](dataset/).
 
-We will provide download link of PDFs in several weeks.
-
 ![ test img](/misc/LRECCOLING.gif)
 
 # Paper
