@@ -14,7 +14,7 @@ Please visit [Paper](https://arxiv.org/abs/2403.19454).
 
 # Dataset License
 
-JDocQA dataset annotations are distributed under CC BY-SA 4.0. We hope to see many derivations upon JDocQA! When you create any derivations, e.g., datasets, papers, etc, from JDocQA, cite our paper accordingly.
+JDocQA dataset annotations are distributed under CC BY-SA 4.0. We hope to see many derivations upon JDocQA! When you create any derivations, e.g., datasets, papers, etc, from JDocQA, plaese cite our paper accordingly.
 
 # Cite
 
