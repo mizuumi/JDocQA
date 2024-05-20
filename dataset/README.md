@@ -26,7 +26,7 @@ Annotation entries:
 ## pdf_category
 We renamed the several category names upon the paper for the interpretability.
 - `Document` category in the PDF set as `Report` in the paper.
-- `Kouhou` category in the PDF set as `Pamplet` in the paper.
+- `Kouhou` category in the PDF set as `Pamphlet` in the paper.
 
 # Annotated documents
 
