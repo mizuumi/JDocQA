@@ -9,7 +9,7 @@ Annotations can be downloaded from [Here](dataset/).
 
 # IMPORTANT NOTICE (How to evaluate on JDocQA?) 
 
-LLM-jpの前田航希さん、杉浦一瑳さんらによる [llm-jp-eval](https://llm-jp.github.io/llm-jp-eval-mm/) にJDocQAによる評価が実装されました。
+LLM-jpの前田航希さん、杉浦一瑳さんらによる [llm-jp-eval-mm](https://llm-jp.github.io/llm-jp-eval-mm/) にJDocQAによる評価が実装されました。
 
 [https://github.com/llm-jp/llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) にて実験できます！
 
