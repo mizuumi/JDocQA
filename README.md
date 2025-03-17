@@ -9,13 +9,15 @@ Annotations can be downloaded from [Here](dataset/).
 
 # IMPORTANT NOTICE (How to evaluate on JDocQA?) 
 
-LLM-jpの前田航希さん、杉浦一瑳さんらによる [llm-jp-eval-mm](https://llm-jp.github.io/llm-jp-eval-mm/) にJDocQAによる評価が実装されました。
+LLM-jpの前田航希さん、杉浦一瑳さんらが作成した [llm-jp-eval-mm](https://llm-jp.github.io/llm-jp-eval-mm/) に、JDocQAを用いた評価コードが実装されました。
 
 [https://github.com/llm-jp/llm-jp-eval-mm](https://github.com/llm-jp/llm-jp-eval-mm) にて実験できます！
 
+お手元のモデルをJDocQAデータセットで評価したい方はぜひご利用ください！
 
 
-Evaluation codes of JDocQA are available at [llm-jp-eval](https://llm-jp.github.io/llm-jp-eval-mm/)!
+
+Evaluation codes of JDocQA are available at [llm-jp-eval-mm](https://llm-jp.github.io/llm-jp-eval-mm/)!
 
 Special thanks to Koki Maeda (Institute of Science Tokyo) and Issa Sugiura (Kyoto University) who are the members of [LLM-jp](https://huggingface.co/llm-jp)! 
 
