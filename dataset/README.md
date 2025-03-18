@@ -21,6 +21,8 @@ Annotation entries:
 'question': Question query for models.
 'original_answer': Annotated answers.
 'no_reason': Unanswerable question-> 0, Answerable question-> 1, Multi page question -> 2. They can be jointly flagged such as `1,2`.
+'multiple_select_question': 4 multiple select questions (A), (B), (C), (D).
+'multiple_select_answer': Answer of 'multiple_select_question'.
 ```
 
 ## pdf_category
