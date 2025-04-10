@@ -32,4 +32,4 @@ We renamed the several category names upon the paper for the interpretability.
 
 # Annotated documents
 
-Please [download from here](https://vlm-lab-fileshare.s3.ap-northeast-1.amazonaws.com/pdf_files.zip). Do not directly link to the zip file from any other places as we may change this link without any notices.
+Please fill in this [form](https://docs.google.com/forms/u/0/d/e/1FAIpQLSefhYSkAqj98gVlC1X5d53DksA4U2QR8IcNosBLQTH2xTj4PQ/formResponse) to download.
